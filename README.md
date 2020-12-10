@@ -7,6 +7,8 @@
 - 🥅 2021 Goal: Contribute more to Open Source projects
 - ⚡ Hobbie: I love to create tech videos
 
+<img src='https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif' align='right'>
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="TheIconik Spotify Playing" width="350" />]
