@@ -35,6 +35,9 @@
 <br />
 <br />
 
+---
+[![Ujjawal's github stats](https://github-readme-stats.vercel.app/api?username=theiconik&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://theiconik.github.io
 [twitter]: https://twitter.com/the_iconik_
 [youtube]: https://www.youtube.com/channel/UCKyJnK6WlIdxeeU4_AkbcuA
