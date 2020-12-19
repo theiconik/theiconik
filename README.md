@@ -1,7 +1,7 @@
 ### Hi there, I'm Ujjawal - aka [theiconik][website] 👋
 
 ## I'm a CSE student at NIT Agartala (INDIA)
-- 🌱 I’m currently exploring things and learning to code! 🤣
+- 🌱 I’m currently exploring things and learning to code! 
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goal: Start contributing to Open Source projects
 - ⚡ Hobbie: I love to create tech videos
