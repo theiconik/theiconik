@@ -4,7 +4,8 @@
 - 🌱 I’m currently exploring things and learning to code! 
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goal: Start contributing to Open Source projects
-- ⚡ Hobbie: I love to create tech videos
+- ⚡ Hobbie: I love to create tech video
+- 😜 Fun fact: There's a "The Office" famous quote on my profile.
 
 ### Connect with me:
 
