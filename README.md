@@ -1,10 +1,10 @@
 ### Hi there, I'm Ujjawal - aka [theiconik][website] 👋
 
-## I'm a CSE student at NIT Agartala (INDIA) <img align="right" width="250px" src="https://media.giphy.com/media/xT9IgCspUhDzxQqyJ2/giphy.gif">
+## I'm a CSE student at NIT Agartala (INDIA) <img align="right" width="500px" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif">
 - 🌱 I’m currently exploring things and learning to code! 
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goal: Start contributing to Open Source projects
-- ⚡ Hobbie: I love to create tech video
+- 🥅 2021 Goal: Start contributing to Open Source projects!
+- ⚡ Hobbie: I love to create tech videos!
 - 😜 Fun fact: There's a "The Office" famous quote on my profile.
 
 ### Connect with me:
