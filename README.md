@@ -1,38 +1,40 @@
-### Hi there, I'm Ujjawal - aka [theiconik][website] 👋
+## Hi there, I'm Ujjawal - aka [theiconik][website] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-## I'm a CSE student at NIT Agartala (INDIA) <img align="right" width="500px" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif">
-- 🌱 I’m currently exploring things and learning to code! 
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goal: Start contributing to Open Source projects!
-- ⚡ Hobbie: I love to create tech videos!
-- 😜 Fun fact: There's a "The Office" famous quote on my profile.
+![Twitter Follow](https://img.shields.io/twitter/follow/theiconik_?label=Follow)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Ujjawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ujjawal-pandey-b35524117/)](https://www.linkedin.com/in/ujjawal-pandey-b35524117/)
 
-### Connect with me:
+<img align="right" width="500px" height="250px" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif">
+🏫 I'm a CSE student at NIT Agartala (INDIA) <br/>
+👩🏾‍💻 I’m currently exploring things and learning to code! <br/>
+🤝 I’m looking to collaborate with other developers.<br/>
+🥅 2021 Goal: Start contributing to Open Source projects!<br/>
+⚡ Hobbie: I love to create tech videos!<br/>
+😜 Fun fact: There's a "The Office" famous quote on my profile.<br/>
 
-[<img align="left" alt="theiconik.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ujjawal Pandey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ujjawal Pandey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+### 🛠 Tech Stack
 
-### Languages and Tools:
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />
-<br />
-<br />
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat"> -->
+<!-- <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> -->
+<!-- <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> -->
+<!-- <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> -->
 
 ---
 
 [website]: https://theiconik.github.io
-[twitter]: https://twitter.com/the_iconik_
+[twitter]: https://twitter.com/theiconik_
 [youtube]: https://www.youtube.com/channel/UCKyJnK6WlIdxeeU4_AkbcuA
 [linkedin]: https://www.linkedin.com/in/ujjawal-pandey-b35524117/
 
