@@ -7,6 +7,7 @@
 🏫 I'm a CSE student at NIT Agartala (INDIA) <br/>
 👩🏾‍💻 I’m currently exploring things and learning to code! <br/>
 🤝 I’m looking to collaborate with other developers.<br/>
+<br/>
 🥅 2021 Goal: Start contributing to Open Source projects!<br/>
 ⚡ Hobbie: I love to create tech videos!<br/>
 😜 Fun fact: There's a "The Office" famous quote on my profile.<br/>
