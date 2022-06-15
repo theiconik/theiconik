@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Ujjawal - aka [theiconik][website]
+## 👋 Hi there, I'm Ujjawal - aka [theiconik][website]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/theiconik_?label=Follow&link=https://www.twitter.com/theiconik_/)](https://www.twitter.com/theiconik_/)
 [![Linkedin: theiconik](https://img.shields.io/badge/-Ujjawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ujjawal-pandey-b35524117/)](https://www.linkedin.com/in/theiconik/)
