@@ -32,7 +32,7 @@
 
 ---
 
-[website]: https://theiconik.me
+[website]: https://theiconik.github.io
 [twitter]: https://twitter.com/theiconik_
 [youtube]: https://www.youtube.com/channel/UCKyJnK6WlIdxeeU4_AkbcuA
 [linkedin]: https://www.linkedin.com/in/ujjawal-pandey-b35524117/
